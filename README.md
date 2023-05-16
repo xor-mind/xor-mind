@@ -1,1 +1,1 @@
-studying CS. working in the Windows environment. Working part time as a poker dealer. Currently working on a CS testing framework in windows which includes working on my own OOP windows systems library.
+Working hard and studying so I can achieve my dream as a programmer. This is all work in progress. 
